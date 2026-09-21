@@ -1,1 +1,22 @@
 This is Jakobe's Content - Fresh System Loading...
+<html>
+      <head>
+    </head>
+    <body>
+        <h1>Welcome to My Website</h1>
+        <p>This is a simple paragraph</p>
+        <!-- This is a simple table -->
+        <nav style= "background-color: lightblue;
+        padding 20px"
+
+              <a href="index.html"
+              style="backgriund-color: yellow; padding:
+              10px: margin 5px">Home</a>
+
+
+              <a href="index.html">Home
+                <a href="table.html">Table</a>
+                <a href="style.html">Style</a>
+         
+
+
